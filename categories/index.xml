@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on JL Blog</title>
+    <link>https://JeromeLin222.github.io/categories/</link>
+    <description>Recent content in Categories on JL Blog</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Fri, 07 Feb 2025 10:07:47 +0600</lastBuildDate>
+    <atom:link href="https://JeromeLin222.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Go Language</title>
+      <link>https://JeromeLin222.github.io/categories/go-language/</link>
+      <pubDate>Fri, 07 Feb 2025 10:07:47 +0600</pubDate>
+      <guid>https://JeromeLin222.github.io/categories/go-language/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Android and Gaming</title>
+      <link>https://JeromeLin222.github.io/categories/android-and-gaming/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <guid>https://JeromeLin222.github.io/categories/android-and-gaming/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
